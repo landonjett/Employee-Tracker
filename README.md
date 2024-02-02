@@ -65,7 +65,7 @@ To contribute to this project, please create a pull request or contact the autho
 
 ## Video Demonstration
 
-[Click here](link_to_your_video) for a video demonstration of the application.
+[Click here](https://drive.google.com/file/d/17mx3AprY5Pst62wgm1SM91vO_QHqdSW6/view) for a video demonstration of the application.
 
 ## Questions
 
